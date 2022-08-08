@@ -1,7 +1,7 @@
 # Getting Started
 A Spring GraphQL batch example to solve N + 1 problem.
 
-Article - [Spring for GraphQL : @SchemaMapping and @QueryMapping](https://techdozo.dev/spring-for-graphql-schemamapping-and-querymapping/) 
+Article - [Spring for GraphQL: How to solve the N+1 Problem?](https://techdozo.dev/spring-for-graphql-how-to-solve-the-n1-problem/) 
 
 
 ## Build
